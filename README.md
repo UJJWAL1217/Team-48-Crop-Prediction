@@ -1,5 +1,6 @@
 # Team-48-Crop-Prediction
 This project is submitted by Team-48 (Stuti Mahajan, Ujjwal Tajne, Abhishek Kumar and Mansi Sahu) to complete our learning at SmartBridge. This project aims to address this challenge by developing a crop prediction model that leverages machine learning techniques to provide farmers with informed recommendations.
+
 ![project](https://github.com/UJJWAL1217/Team-48-Crop-Prediction/assets/80946857/71105ac0-4c56-4383-862a-5b8df2bdd0db)
 
 ## Introduction
@@ -28,10 +29,10 @@ Dataset Source: [Crop Recommendation Dataset](https://www.kaggle.com/code/prasad
 2. Click on the "Predict" button to receive the recommended crop along with additional details such as required fertilizers, seeds, market prices, and potential yield.
 
 ## Contributors
-- (Stuti Mahajan)[https://github.com/Stutimaha]
-- (Ujjwal Tajne)[https://github.com/UJJWAL1217]
-- (Abhishek Kumar)[https://github.com/ABHIROMAN]
-- (Mansi Sahu)[https://github.com/mansi2001]
+- [Stuti Mahajan](https://github.com/Stutimaha)
+- [Ujjwal Tajne](https://github.com/UJJWAL1217)
+- [Abhishek Kumar](https://github.com/ABHIROMAN)
+- [Mansi Sahu](https://github.com/mansi2001)
 
 ## Acknowledgements
 We would like to express our gratitude to SmartBridge for providing us with the opportunity to work on this project and enhance our skills in Data science, machine learning and web development.
