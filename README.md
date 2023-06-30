@@ -16,7 +16,7 @@ Agriculture plays a crucial role in our society, and farmers face the challenge 
 ## Dataset
 The crop prediction model utilizes the "Crop Recommendation Dataset" obtained from Kaggle. This dataset contains information on various crops, including their nutrient requirements, weather conditions, and other relevant parameters. The dataset has been preprocessed and prepared for training the machine learning model.
 
-Dataset Source: [Crop Recommendation Dataset](https://www.kaggle.com/code/prasadchaskar/crop-prediction-99-accuracy)
+Dataset Source: [Crop Prediction Dataset](https://www.kaggle.com/code/prasadchaskar/crop-prediction-99-accuracy)
 
 ## Technology Used
 - Python
