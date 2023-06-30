@@ -6,6 +6,10 @@ This project is submitted by Team-48 (Stuti Mahajan, Ujjwal Tajne, Abhishek Kuma
 ## Project Demo
 [Our Project Demostration](https://drive.google.com/file/d/1GRYrHK0sChURvz-x0iQkAE02YF5aXxPx/view?usp=sharing)
 
+In this project demonstration video, we showcase the functionality and usage of our crop prediction model. The video provides a step-by-step walkthrough of the web application and demonstrates how farmers can input their local parameters to receive personalized crop recommendations. We also highlight the additional details provided by the model, such as required fertilizers, seeds, market prices, and potential yield for the recommended crop.
+
+By watching the project demonstration video, you will get a clear understanding of how our crop prediction model works and how it can assist farmers in making informed decisions for successful crop cultivation.
+
 ## Introduction
 Agriculture plays a crucial role in our society, and farmers face the challenge of selecting the most suitable crop for cultivation based on various factors such as weather conditions, soil characteristics, and market demand. To assist farmers in making informed decisions, we have developed a crop prediction model that leverages machine learning algorithms and data analysis.
 
